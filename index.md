@@ -6,9 +6,9 @@ My project explores boba shops in NYC, visualizing the density of shops per comm
 - One interactive map filtered by ratings, coupled with price and location information.
 
 ## Dataset Information:
-- *missing link for github repo*
-- *missing link for median income data*
-- *missing lihk for NYC geojson*
+- [mebauer/boba-nyc repo](https://github.com/mebauer/boba-nyc) This was last updated 2022.
+- [CCCNY Median Income Data](https://data.cccnewyork.org/data/map/66/median-incomes#66/39/3/107/127/a/a) This data is for 2021 medain incomes
+- [NYC Open Data CD Borders](https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4) I don't know when this was last updated
 
 ## Static Maps
 1. Boba shop locations and district median incomes
