@@ -18,3 +18,7 @@ My project explores boba shops in NYC, visualizing the density of shops per comm
 
 ## Interactive Map
 <iframe src="boba_nyc_map.html" width="100%" height="800px"></iframe>
+
+### Author
+- Edward Yin
+- Command-Line GIS, Fall 2024
