@@ -12,7 +12,7 @@ My project explores boba shops in NYC, visualizing the density of shops per comm
 
 ## Static Maps
 1. Boba shop locations and district median incomes
-   ![Shops and Income](nyc_boba_shops_median_income.png)
+   ![Shops and Income](nyc_boba_shops_median_income_map.png)
 2. Boba shop locations and density per district
    ![Boba Density](boba_shop_density_and_categories_map.png)
 
